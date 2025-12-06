@@ -46,6 +46,7 @@
 
 ## 📁 项目结构
 
+```
 main/
 ├── java/com/example/imagetextapp/
 │   ├── cache/
@@ -79,6 +80,9 @@ main/
 │   └── MainActivity.kt               # 应用入口
 └── res/
     └── (资源文件目录)                 # 图片、字符串等资源
+```
+
+
 
 ## 🚀 快速开始
 
