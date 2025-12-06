@@ -116,6 +116,12 @@ app-release.apk
 
 ![图片描述](./png/img_2.png)
 
+视频演示：
+<video width="600" controls>
+  <source src="./MP4/test.mp4" type="video/mp4">
+  您的浏览器不支持视频标签。
+</video>
+
 ## 🔧 扩展功能
 
 双列瀑布流布局
